@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "655d9584-f056-5cd8-7b1b-f8b70b708d53"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Building Technologies III: Building Structural Systems II",
+  "course_description": "This course addresses advanced topics in structures, exterior envelopes and contemporary production technologies. It continues the exploration of structural elements and systems; expanding to include more complex determinant, indeterminate, long-span and high-rise systems. Some of the topics covered include reinforced concrete, steel and engineered wood design, and an introduction to tensile systems. The contemporary exterior envelope is discussed with an emphasis on the classification of systems, their performance attributes and advanced manufacturing technologies. This course is the second of two graduate structures courses, the first of which is 4.462. They offer an expanded version of the content presented in the undergraduate course, 4.440.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "4.442",
+  "primary_course_number": "4.463",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
